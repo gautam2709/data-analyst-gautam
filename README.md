@@ -20,3 +20,8 @@ Methodology:
 
 ![image](https://github.com/gautam2709/data-analyst-gautam/blob/main/Screenshot%202024-12-11%20012435.png)
 
+
+![image](https://github.com/gautam2709/data-analyst-gautam/blob/main/Screenshot%202024-12-11%20012619.png)
+
+
+![image](https://github.com/gautam2709/data-analyst-gautam/blob/main/Screenshot%202024-12-11%20012733.png)
