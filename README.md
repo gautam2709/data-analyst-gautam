@@ -25,3 +25,19 @@ Methodology:
 
 
 ![image](https://github.com/gautam2709/data-analyst-gautam/blob/main/Screenshot%202024-12-11%20012733.png)
+
+
+Technologies and Tools:
+
+AWS S3: For storing datasets.
+
+AWS Glue: For transforming and cleaning data.
+
+AWS Athena: For data summarization and SQL query execution.
+
+Excel: For creating visual summaries.
+
+
+Important Data Findings:
+
+In the downtown area, there were a total of 200 cooling towers of the mechanical system type erected. Additionally, there were 380 N volunteers who participated in the data collection.
