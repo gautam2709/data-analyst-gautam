@@ -18,4 +18,5 @@ Methodology:
 
 3.Data Visualization: To illustrate the distribution and core patterns, graphs and charts were made using Excel.
 
-![image]
+![image](https://github.com/gautam2709/data-analyst-gautam/blob/main/Screenshot%202024-12-11%20012435.png)
+
