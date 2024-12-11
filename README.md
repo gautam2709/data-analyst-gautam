@@ -41,3 +41,23 @@ Excel: For creating visual summaries.
 Important Data Findings:
 
 In the downtown area, there were a total of 200 cooling towers of the mechanical system type erected. Additionally, there were 380 N volunteers who participated in the data collection.
+
+Data Wrangling of data at the City of Vancouver
+
+Data Collection: Information was gathered from the City of Vancouver's internal systems and a number of public data sites.
+
+Data Cleaning: To deal with missing data and normalize inconsistent entries across datasets, AWS Glue and DataBrew were utilized.
+
+Data Transformation: New columns were added, including permit type and date. 
+
+Storage: AWS S3 was used to store the processed datasets so they could be examined further.
+
+Technologies and Tools:
+
+
+Large datasets can be stored and arranged using AWS S3.
+
+For cleaning and transforming data, used AWS Glue.
+
+Data is cleaned and managed using AWS DataBrew to facilitate analysis.
+
