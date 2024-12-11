@@ -17,3 +17,5 @@ Methodology:
 2.Data Summary: AWS Athena was used to compute descriptive statistics for the dataset's important variables.
 
 3.Data Visualization: To illustrate the distribution and core patterns, graphs and charts were made using Excel.
+
+![image]
