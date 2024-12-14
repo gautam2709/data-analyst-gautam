@@ -44,6 +44,8 @@ In the downtown area, there were a total of 200 cooling towers of the mechanical
 
 Data Wrangling of data at the City of Vancouver
 
+Methodology:
+
 Data Collection: Information was gathered from the City of Vancouver's internal systems and a number of public data sites.
 
 Data Cleaning: To deal with missing data and normalize inconsistent entries across datasets, AWS Glue and DataBrew were utilized.
